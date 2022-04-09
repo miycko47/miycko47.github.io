@@ -4,7 +4,10 @@
 }
 #header{
 	min-height: 40px;
-
+}
+#body{
+	min-height: 40px;
+	margin-top: 3%;
 }
 .Mike{
     height: 100vh;
